@@ -37,6 +37,12 @@
         </dependency>
         <dependency>
             <groupId>com.davault</groupId>
+            <artifactId>clients</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.davault</groupId>
             <artifactId>fraud</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>compile</scope>

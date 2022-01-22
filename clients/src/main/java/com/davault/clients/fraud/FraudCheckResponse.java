@@ -1,4 +1,5 @@
-package com.davault.fraud;
+package com.davault.clients.fraud;
 
 public record FraudCheckResponse(Boolean isFraudster) {
+
 }
